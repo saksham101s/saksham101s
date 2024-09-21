@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saksham101s
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning C, C++
+- 🌱 I’m currently learning C Programming || C++ Programming || HTML || CSS || JAVASCRIPT || Leethcode (1611) || Codeforces (1107) || gfg (1796) || codechef (1311) || DSA || Cloud Computing || Web Developer || Designing || Artist
 - 💞️ I’m looking to collaborate on a project.
 - 📫 How to reach me ... my email is sakshamupreti1to1@gmail.com
 
